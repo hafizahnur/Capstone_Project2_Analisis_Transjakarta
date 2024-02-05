@@ -70,8 +70,7 @@ Kesimpulan dari analisis terkait upaya meningkatkan  kinerja armada dan operasio
      - Halte Garuda Taman Mini, Rusun Kapuk Muara, dan Penjaringan merupakan halte `tapIn` terpadat pada waktu sibuk pagi hari. Sedangkan Halte Penjaringan, Cibubur Junction, dan Pejaten merupakan halte `tapIn` 
        terpadat pada waktu sibuk sore hari. 
      - Halte Penjaringan, BKN, dan Monas merupakan halte `tapOut` terpadat pada waktu sibuk pagi hari. Sedangkan Halte BKN, Term. Senen dan Pinang Ranti merupakan halte `tapOut` terpadat pada waktu sore hari. 
-  
-  Halte yang belum dilakukan revitalisasi dan perluasan namun padat penumpang Garuda Taman Mini, Rusun Kapuk Muara, Monas, Cibubur Junction,dan Penjaringan.
+       Halte yang belum dilakukan revitalisasi dan perluasan namun padat penumpang Garuda Taman Mini, Rusun Kapuk Muara, Monas, Cibubur Junction,dan Penjaringan.
   5. Pola Perjalanan Pengguna Transjakarta Pada Akhir Pekan:
     Tiga Koridor yang banyak digunakan diakhir pekan adalah koridor Pinang Ranti - kampung rambutan, JIS- Terminal Muara angke, dan Pinang Ranti-Bunderan Senayan. Koridor ini merupakan koridor dengan akses ke     
     pusat kota dan tempat wisata di daerah Jakarta.
