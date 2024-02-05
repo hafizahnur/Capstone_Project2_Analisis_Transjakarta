@@ -76,3 +76,7 @@ Kesimpulan dari analisis terkait upaya meningkatkan  kinerja armada dan operasio
     pusat kota dan tempat wisata di daerah Jakarta.
 
 Dengan memahami profil pengguna, pola perjalanan, jam sibuk, dan penggunaan Transjakarta pada akhir pekan, PT. Transjakarta dapat menyesuaikan strategi dengan cara menambah armada, memperbaiki fasilitas, dan meningkatkan layanan. Hal ini bertujuan untuk memberikan pengalaman transportasi yang lebih baik kepada para penumpang.
+
+# Tableau
+
+https://github.com/hafizahnur/Capstone_Project2_Analisis_Transjakarta
